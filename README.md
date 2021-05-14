@@ -1,3 +1,5 @@
+![Martian](https://github.com/Tijaw1/martian_market/blob/main/Martian.png)
+
 # MartianMarket
 
 ## Summary
